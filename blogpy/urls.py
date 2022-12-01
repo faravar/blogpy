@@ -17,5 +17,6 @@ from django.contrib import admin
 from django.urls import path
 
 urlpatterns = [
-    path('admin/', admin.site.urls,name="admin"), #localhost:8000
+    path('admin/', admin.site.urls,name="admin"), #localhost:8000 user nafas pass:123456
+
 ]
